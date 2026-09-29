@@ -40,16 +40,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Recruiter Cheat Sheet */}
-          <div className="footer-links-col">
-            <div className="footer-col-title">Recruiter Fast Facts</div>
-            <ul className="footer-facts-list">
-              <li><span className="dot-bullet"></span> Work Auth: US Citizen / Authorized</li>
-              <li><span className="dot-bullet"></span> Target: Senior / Staff / Lead</li>
-              <li><span className="dot-bullet"></span> Notice Period: 2 Weeks</li>
-              <li><span className="dot-bullet"></span> Preference: Remote / Hybrid SF</li>
-            </ul>
-          </div>
 
         </div>
 
